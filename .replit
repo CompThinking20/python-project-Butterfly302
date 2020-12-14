@@ -1,1 +1,19 @@
-language = "python3"
+def main ():
+print What is your favorite food?"
+food_answer = raw_input("Enter your food")
+
+print "Hello" + str(food_answer) + " What is your favorite desert?"
+desert_answer + raw_input
+
+
+
+
+
+
+
+
+
+
+
+
+    
