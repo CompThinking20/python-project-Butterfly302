@@ -1,4 +1,5 @@
-  The project I proposed is what is a person favorite foods to eat.
+def main():
+    print "The project I proposed is what is a person favorite foods to eat."
   It took a lot to reach Milestone 1 for me. Considering there were some technical difficulties on my end.
   Milestone two was the same way. I had to figure it out the best way I could until I was able to get a clear session so that I could complete it.
   Yes the concepts from the lectures were useful but still I had issues because we we're in class.
